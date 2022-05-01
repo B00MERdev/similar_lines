@@ -1,5 +1,5 @@
 # similar lines
-a program to check which lines have the same numbers and words
+a program to check which lines contain same numbers and words
 
 ## Definicje
 
